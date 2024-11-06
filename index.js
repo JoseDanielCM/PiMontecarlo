@@ -1,5 +1,3 @@
-// Escribir una programa que calcule los siguientes 3 número de la sucesión 1, 1, 2, -1, 1, -2, -1, ?, ?, ?
-
 let numRandom = function(){
     let num1 = (Math.random()* 2)
     let num2 = (Math.random()* 2)
